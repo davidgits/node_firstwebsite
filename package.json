@@ -1,7 +1,7 @@
 {
   "name": "node_firstwebsite",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Este es mi primer website usando NodeJs y Express, además de otras tecnologías descritas más abajo.\r Este proyecto ha sido desarrollado gracias a Fazt: \r https://www.youtube.com/channel/UCMn28O1sQGochG94HdlthbA/videos",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src",
